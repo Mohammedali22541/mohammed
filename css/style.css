@@ -1,0 +1,28 @@
+@font-face {
+    font-family: impact-font;
+    src: url(../Google-Fonts/TR\ Impact.TTF);
+}
+body{
+    font-family: impact-font;
+
+}
+.quotes h1{
+    font-weight: 700;
+    font-size:80px ;
+    padding-block: 40px;
+}
+.quotes .p-first{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 400;
+    font-size: 35px;
+    padding-bottom: 40px;
+
+}
+
+#quoteText, #quoteAuthor{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 400;
+    font-size: 35px;
+margin-top: 20px;
+padding-inline: 20px;
+}
